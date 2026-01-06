@@ -1,0 +1,8 @@
+setuptools
+wheel
+twine
+numpy
+fastembed
+scikit-learn
+rank-bm25
+pytest
